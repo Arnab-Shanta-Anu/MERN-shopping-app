@@ -1,0 +1,23 @@
+{
+  "name": "mern-shopping-app",
+  "version": "1.0.0",
+  "description": "a shopping app made with mern stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnab-Shanta-Anu/MERN-shopping-app.git"
+  },
+  "keywords": [
+    "mern",
+    "stack"
+  ],
+  "author": "arnab shanta anu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arnab-Shanta-Anu/MERN-shopping-app/issues"
+  },
+  "homepage": "https://github.com/Arnab-Shanta-Anu/MERN-shopping-app#readme"
+}
