@@ -3,10 +3,6 @@ const path = require("path");
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.get("/", (req, res) => {
-  res.send("Hello World!");
-});
-
 //serve frontend
 app.use(express.static(path.join(__dirname, "./frontend/dist")));
 app.get("*", (req, res) => {
