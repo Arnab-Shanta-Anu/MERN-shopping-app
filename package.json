@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Arnab-Shanta-Anu/MERN-shopping-app/issues"
   },
-  "homepage": "https://github.com/Arnab-Shanta-Anu/MERN-shopping-app#readme"
+  "homepage": "https://github.com/Arnab-Shanta-Anu/MERN-shopping-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
 }
